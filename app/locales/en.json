@@ -26,5 +26,11 @@
   "supply.kg": "kg",
   "supply.each": "each (discrete)",
   "supply.resource": "product name",
-  "supply.contains": "which contains"
+  "supply.contains": "which contains",
+  "tasks.tasks": "tasks",
+  "tasks.completeTask": "done",
+  "tasks.cancelTask": "cancel",
+  "tasks.recipes.finish-prereqs": "finish pre-requisites for ordering",
+  "tasks.recipes.setup-group": "setup group profile and members",
+  "tasks.recipes.setup-supplier": "setup supplier profile and products"
 }
